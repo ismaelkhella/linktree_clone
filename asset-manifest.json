@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/linktree_clone/static/css/main.dbca5069.css",
+    "main.js": "/linktree_clone/static/js/main.39f22140.js",
+    "static/js/453.fb2938cb.chunk.js": "/linktree_clone/static/js/453.fb2938cb.chunk.js",
+    "static/media/whatsapp_icon.gif": "/linktree_clone/static/media/whatsapp_icon.30f41c340bc896725260.gif",
+    "static/media/location.gif": "/linktree_clone/static/media/location.db0ea2510ee75851747a.gif",
+    "static/media/bg-abstract.jpeg": "/linktree_clone/static/media/bg-abstract.a6d2c6001b140f9e1185.jpeg",
+    "static/media/logo.png": "/linktree_clone/static/media/logo.2a1da57ba37a037925e5.png",
+    "static/media/tiktok.png": "/linktree_clone/static/media/tiktok.1df213b8f4fd53fac6fc.png",
+    "static/media/wesend.png": "/linktree_clone/static/media/wesend.e53ad460842b72c56850.png",
+    "static/media/X_logo.jpg": "/linktree_clone/static/media/X_logo.57932a4baf5519693042.jpg",
+    "static/media/instagram.jpeg": "/linktree_clone/static/media/instagram.c82c467fa93fdd0e8e5c.jpeg",
+    "index.html": "/linktree_clone/index.html",
+    "main.dbca5069.css.map": "/linktree_clone/static/css/main.dbca5069.css.map",
+    "main.39f22140.js.map": "/linktree_clone/static/js/main.39f22140.js.map",
+    "453.fb2938cb.chunk.js.map": "/linktree_clone/static/js/453.fb2938cb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dbca5069.css",
+    "static/js/main.39f22140.js"
+  ]
+}
