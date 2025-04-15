@@ -1,0 +1,28 @@
+/* src/ProfileWidget.css */
+.profile-widget {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .profile-image-container {
+    width: 120px;
+    margin-bottom: 20px;
+  }
+  
+  .profile-image {
+    width: 100%;
+    height: auto;
+    border-radius: 8px; /* Adjust for rounded or sharp corners */
+    border: 2px solid #d92d81; /* Accent color */
+    object-fit: cover;
+  }
+  
+  .profile-title {
+    font-size: 1.2rem;
+    font-weight: bold;
+    color: #333;
+    margin: 0;
+    line-height: 1.5;
+  }
+  
