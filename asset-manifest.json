@@ -1,23 +1,24 @@
 {
   "files": {
     "main.css": "/linktree_clone/static/css/main.10738f78.css",
-    "main.js": "/linktree_clone/static/js/main.7718c472.js",
+    "main.js": "/linktree_clone/static/js/main.bfe58cb1.js",
     "static/js/453.fb2938cb.chunk.js": "/linktree_clone/static/js/453.fb2938cb.chunk.js",
     "static/media/whatsapp_icon.gif": "/linktree_clone/static/media/whatsapp_icon.30f41c340bc896725260.gif",
     "static/media/location.gif": "/linktree_clone/static/media/location.db0ea2510ee75851747a.gif",
     "static/media/background2.jpeg": "/linktree_clone/static/media/background2.fb91573bef0f059c0ac0.jpeg",
     "static/media/tiktok.png": "/linktree_clone/static/media/tiktok.4d0c76d66b431c0c1f46.png",
     "static/media/logo2.png": "/linktree_clone/static/media/logo2.86ddd62cdafad9379203.png",
+    "static/media/xlogo.png": "/linktree_clone/static/media/xlogo.4615e71e9d75a781b8f5.png",
+    "static/media/snapchat.png": "/linktree_clone/static/media/snapchat.e51970a37786d74c4ab2.png",
     "static/media/website.png": "/linktree_clone/static/media/website.95e13705e50dd76b7c65.png",
     "static/media/instagram.png": "/linktree_clone/static/media/instagram.f3d75d42239494301c13.png",
-    "static/media/X_logo.jpg": "/linktree_clone/static/media/X_logo.57932a4baf5519693042.jpg",
     "index.html": "/linktree_clone/index.html",
     "main.10738f78.css.map": "/linktree_clone/static/css/main.10738f78.css.map",
-    "main.7718c472.js.map": "/linktree_clone/static/js/main.7718c472.js.map",
+    "main.bfe58cb1.js.map": "/linktree_clone/static/js/main.bfe58cb1.js.map",
     "453.fb2938cb.chunk.js.map": "/linktree_clone/static/js/453.fb2938cb.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.10738f78.css",
-    "static/js/main.7718c472.js"
+    "static/js/main.bfe58cb1.js"
   ]
 }
