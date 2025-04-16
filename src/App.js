@@ -8,9 +8,9 @@ import LinkItem from './LinkItem';
 // Importing images for icons
 import logo from './images/logo2.png';                   // Rectangular logo
 import whatsappGif from './images/whatsapp_icon.gif';     // WhatsApp icon/gif
-import snapchatImg from './images/snapchat.jpeg';         // Snapchat button icon
+import snapchatImg from './images/snapchat.png';         // Snapchat button icon
 import instagramImg from './images/instagram.png';        // Instagram button icon
-import xLogo from './images/X_logo.jpg';                  // Platform X icon
+import xLogo from './images/xlogo.png';                  // Platform X icon
 import locationImg from './images/location.gif';          // Location icon (for both male & female locations)
 import youtubeLogo from './images/Youtube_logo.png';      // YouTube icon
 
