@@ -1,14 +1,14 @@
 /* src/ProfileWidget.css */
 .profile-widget {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-  }
-  
-  .profile-image-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.profile-image-container {
   width: 210px;
   height: auto;
-  margin-bottom: 20px;
+  margin-bottom: 0; /* إزالة المسافة تحت الشعار */
   display: flex;
   justify-content: center;
   align-items: center;
@@ -16,18 +16,16 @@
 }
 
 .profile-image {
-  width: 100%; /* بدلاً من 170% */
+  width: 100%;
   height: auto;
   border-radius: 8px;
   object-fit: cover;
 }
 
-  
-  .profile-title {
-    font-size: 1.2rem;
-    font-weight: bold;
-    color: #333;
-    margin: 0;
-    line-height: 1.5;
-  }
-  
+.profile-title {
+  font-size: 1.2rem;
+  font-weight: bold;
+  color: #333;
+  margin: 0;
+  line-height: 1.2; /* تقليل المسافة الرأسية داخل العنوان */
+}
