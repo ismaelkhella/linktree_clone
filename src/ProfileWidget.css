@@ -6,17 +6,22 @@
   }
   
   .profile-image-container {
-    width: 120px;
-    margin-bottom: 20px;
-  }
-  
-  .profile-image {
-    width: 100%;
-    height: auto;
-    border-radius: 8px; /* Adjust for rounded or sharp corners */
-    border: 2px solid #d92d81; /* Accent color */
-    object-fit: cover;
-  }
+  width: 210px;
+  height: auto;
+  margin-bottom: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden;
+}
+
+.profile-image {
+  width: 100%; /* بدلاً من 170% */
+  height: auto;
+  border-radius: 8px;
+  object-fit: cover;
+}
+
   
   .profile-title {
     font-size: 1.2rem;

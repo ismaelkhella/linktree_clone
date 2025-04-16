@@ -10,7 +10,6 @@ import logo from './images/logo.png';                   // Rectangular logo
 import whatsappGif from './images/whatsapp_icon.gif';     // WhatsApp icon/gif
 import snapchatImg from './images/snapchat.jpeg';         // Snapchat button icon
 import instagramImg from './images/instagram.jpeg';        // Instagram button icon
-import wesendImg from './images/wesend.png';              // Wesend icon for رقم التواصل الرسمي
 import xLogo from './images/X_logo.jpg';                  // Platform X icon
 import locationImg from './images/location.gif';          // Location icon (for both male & female locations)
 import youtubeLogo from './images/Youtube_logo.png';      // YouTube icon
@@ -40,11 +39,11 @@ function App() {
       url: "https://www.instagram.com/hemaatnaj?igsh=MTgxM3RybTRxa3phbA%3D%3D&utm_source=qr",
       img: instagramImg
     },
-    {
-      title: "واتساب",
-      url: "https://wa.me/message/6TSY2FSSKPG3A1?src=qr",
-      img: whatsappGif
-    },
+    // {
+    //   title: "واتساب",
+    //   url: "https://wa.me/message/6TSY2FSSKPG3A1?src=qr",
+    //   img: whatsappGif
+    // },
     {
       title: "تيك توك",
       url: "https://www.tiktok.com/@hemaatnaj?_t=ZS-8vWsZwwWvbD&_r=1",
@@ -56,17 +55,22 @@ function App() {
       img: youtubeLogo
     },
     {
-      title: "الموقع الجغرافي هِمّات للذكور حي المخيم",
+      title: "رقم التواصل الرسمي لمركز هِمّات للذكور حي المخيم",
+      url: "https://wa.me/message/6TSY2FSSKPG3A1?src=qr",
+      img: whatsappGif
+    },
+    {
+      title: "⁠الموقع الجغرافي لمركز هِمّات للذكور حي المخيم",
       url: "https://maps.app.goo.gl/FKNBG63JueCTvJcG7?g_st=com.google.maps.preview.copy",
       img: locationImg
     },
     {
-      title: "رقم التواصل الرسمي هِمّات حي الجامعة قسم الاناث",
-      url: "https://wsend.co/966539603885",
-      img: wesendImg
+      title: "رقم التواصل الرسمي لمركز هِمّات حي الجامعة قسم الاناث",
+      url: "https://wa.me/message/2FWYRSWUEIKQK15",
+      img: whatsappGif
     },
     {
-      title: "موقع الجغرافي هِمّات للإناث حي الجامعة",
+      title: "موقع الجغرافي لمركز هِمّات للإناث حي الجامعة",
       url: "https://maps.app.goo.gl/ahVHtDkUfat6afwx6?g_st=com.google.maps.preview.copy",
       img: locationImg
     }
@@ -77,7 +81,7 @@ function App() {
       <div className="main-container">
         <ProfileWidget
           image={logo}
-          title="حسابات مراكز هِمّات الرسمية :-"
+          title="حساب مجموعة مراكز هِمّات للرعاية النهارية الرسمية"
         />
 
         <div className="links-container">
