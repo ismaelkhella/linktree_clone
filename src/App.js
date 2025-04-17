@@ -13,7 +13,6 @@ import instagramImg from './images/instagram.png';        // Instagram button ic
 import xLogo from './images/xlogo.png';                  // Platform X icon
 import locationImg from './images/location.gif';          // Location icon (for both male & female locations)
 import youtubeLogo from './images/Youtube_logo.png';      // YouTube icon
-
 import tiktokLogo from './images/tiktok.png';      // YouTube icon
 import websiteLogo from './images/website.png';      // YouTube icon
 
@@ -32,8 +31,9 @@ function App() {
     {
       title: "سناب شات",
       url: "https://snapchat.com/t/5XiM3DYf",
-      img: snapchatImg
-    },
+      img: snapchatImg,
+      extraClass: "snapchat-icon"
+    },    
     {
       title: "انستقرام",
       url: "https://www.instagram.com/hemaatnaj?igsh=MTgxM3RybTRxa3phbA%3D%3D&utm_source=qr",
@@ -50,7 +50,7 @@ function App() {
       img: tiktokLogo
     },
     {
-      title: "اليوتيوب",
+      title: "قناة اليوتيوب",
       url: "https://youtube.com/@hemaatnaj?si=2UHNT6BfYfCC3hOl",
       img: youtubeLogo
     },
@@ -66,11 +66,11 @@ function App() {
     },
     {
       title: "رقم التواصل الرسمي لمركز هِمّات حي الجامعة قسم الاناث",
-      url: "https://wa.me/message/2FWYRSWUEIKQK15",
+      url: "https://wa.me/message/2FWYRSWUEIKQK1",
       img: whatsappGif
     },
     {
-      title: "موقع الجغرافي لمركز هِمّات للإناث حي الجامعة",
+      title: "الموقع الجغرافي لمركز هِمّات للإناث حي الجامعة",
       url: "https://maps.app.goo.gl/ahVHtDkUfat6afwx6?g_st=com.google.maps.preview.copy",
       img: locationImg
     }
@@ -81,7 +81,7 @@ function App() {
       <div className="main-container">
         <ProfileWidget
           image={logo}
-          title="حساب مجموعة مراكز هِمّات للرعاية النهارية الرسمية"
+          title="الحسابات الرسمية لمجموعة مراكز هِمّات للرعاية النهارية"
         />
 
         <div className="links-container">

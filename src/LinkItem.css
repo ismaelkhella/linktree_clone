@@ -24,10 +24,14 @@
   
   .link-icon,
   .link-image {
-    font-size: 22px;
-    color: #d92d81;  /* Accent pink */
+    width: 30px;
+    height: 30px;
+    object-fit: contain;
     margin-left: 8px;
-    height: 24px;
-    width: 24px;
   }
+  
+  .snapchat-icon {
+    width: 40px !important;
+    height: 40px !important;
+  }  
   
