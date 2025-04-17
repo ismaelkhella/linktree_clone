@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/linktree_clone/static/css/main.10738f78.css",
-    "main.js": "/linktree_clone/static/js/main.bfe58cb1.js",
+    "main.css": "/linktree_clone/static/css/main.f7b06deb.css",
+    "main.js": "/linktree_clone/static/js/main.825c3d1c.js",
     "static/js/453.fb2938cb.chunk.js": "/linktree_clone/static/js/453.fb2938cb.chunk.js",
     "static/media/whatsapp_icon.gif": "/linktree_clone/static/media/whatsapp_icon.30f41c340bc896725260.gif",
     "static/media/location.gif": "/linktree_clone/static/media/location.db0ea2510ee75851747a.gif",
@@ -13,12 +13,12 @@
     "static/media/website.png": "/linktree_clone/static/media/website.95e13705e50dd76b7c65.png",
     "static/media/instagram.png": "/linktree_clone/static/media/instagram.f3d75d42239494301c13.png",
     "index.html": "/linktree_clone/index.html",
-    "main.10738f78.css.map": "/linktree_clone/static/css/main.10738f78.css.map",
-    "main.bfe58cb1.js.map": "/linktree_clone/static/js/main.bfe58cb1.js.map",
+    "main.f7b06deb.css.map": "/linktree_clone/static/css/main.f7b06deb.css.map",
+    "main.825c3d1c.js.map": "/linktree_clone/static/js/main.825c3d1c.js.map",
     "453.fb2938cb.chunk.js.map": "/linktree_clone/static/js/453.fb2938cb.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.10738f78.css",
-    "static/js/main.bfe58cb1.js"
+    "static/css/main.f7b06deb.css",
+    "static/js/main.825c3d1c.js"
   ]
 }
